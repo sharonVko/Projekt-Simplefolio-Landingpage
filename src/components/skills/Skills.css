@@ -1,0 +1,18 @@
+.skills{
+    text-align: center;
+}
+.skills div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 8%;
+    width: 22rem;
+    padding: 0 6px;
+    margin: auto;
+}
+
+.skills p{
+   background-color: #2a2f4c; 
+   color: #90a0d9;
+   padding: 4px 8px;
+}

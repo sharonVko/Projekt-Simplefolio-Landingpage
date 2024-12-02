@@ -1,0 +1,21 @@
+nav{
+    display: flex ;
+    justify-content: flex-end;
+    gap: 16px;
+}
+
+nav a {
+    color: #bdbddd;
+    text-decoration: none;
+    font-family: "Poppins Extralight";
+}
+
+/* zum löschen */
+h6{
+    
+   background-color:   #23283e;
+   color:  #2a2f4c;
+   border:  #bdbddd;
+   background-color:   #cdcdff;
+    background-color:  #90a0d9
+}

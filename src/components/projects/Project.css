@@ -1,0 +1,28 @@
+.project-card__wrapper{
+    display: flex;
+    gap: 2%;
+    margin-bottom: 4%;
+    padding: 0 4%;
+}
+.project-card{
+   border: 4px solid #22253a; 
+   background-color: #2a2f4c;
+   padding:0 3%;
+   text-align: center;
+}
+
+.project-card h3,h4{
+    color: #cdcdff;
+}
+
+.project-card h3{
+    font-size: 1.2rem;
+}
+.project-card h4{
+    font-size: 1rem;
+}
+
+.project-card p{
+    color: #90a0d9;
+    font-size: 0.8rem;
+}
