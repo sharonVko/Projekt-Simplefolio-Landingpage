@@ -1,6 +1,6 @@
 # Projekt-Simplefolio-Landingpage
 
-Just a little task - building a basic portfolio landingpage - first day in React
+Just a little task - building a basic portfolio landingpage - first day in React (components only)
 
 ## Preview
 
